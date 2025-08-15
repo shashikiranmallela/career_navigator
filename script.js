@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://ai-career-navigator-8792.onrender.com'; // Change this to your FastAPI server URL
+const API_BASE_URL = 'https://ai-career-navigator-4yts.onrender.com'; // Change this to your FastAPI server URL
 
 class ResumeAnalyzer {
     constructor() {
@@ -401,3 +401,4 @@ if (uploadCard) {
     }
 
 }
+
